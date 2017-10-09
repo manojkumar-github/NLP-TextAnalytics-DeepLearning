@@ -23,6 +23,9 @@ Techniques to deal with Anomaly Detection(Outliers Detection)
 3) Boosting Methods:
      
    
+Out of all the state of the art-of-techniques, I have tried Cost-Sensitive Learning(adding more weights to the anomaly classes). This is
+done solely for my understanding. I will work on this on a bigger dataset and try various techniques mentioned above.
+
 Original Dataset:
 https://www.kaggle.com/c/si650winter11#description
 
