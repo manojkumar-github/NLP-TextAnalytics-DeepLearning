@@ -2,7 +2,10 @@
 
 In this project, I tried to understand how anomalies can be handled in classifying TextMessages. There is a strong difference between finding anomalies in text corpus and find "anaomalies among text message "
 
-Example: Text Message Anomalies - Classifying anomalies in Twitteer Corpus
+Example: 
+
+1) Text Message Anomalies - Classifying anomalies in Twitteer Corpus
+2) Classifying student essays as good/bad
 
 Difference between classification and anomaly detection:
      In classification, one can find class-balanced dataset, where as in anomaly detection, the ration of classes is imbalanced (typically 1000:5)
