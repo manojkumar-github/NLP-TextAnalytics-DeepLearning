@@ -10,6 +10,19 @@ Difference between classification and anomaly detection:
 Dataset:
    Because I could not find such anomaly twitter corpus, I have made an anomaly dataset changing the ration of positive:negative samples to 4000:20 using the original dataset(balanced class ratio). 
    
+Techniques to deal with Anomaly Detection(Outliers Detection)
+
+1) Cost-Sensitive Learning
+     a) MetaCost: A Relabelling Appraoch
+     b) Weighting Methods: Bayes Classifier, Proximity Based Classifiers, Rule-Based Classifiers, Decision Trees,SVM Classifier
+2) Adaptive Resampling:
+     a) Relationship between weighing and sampling
+     b) Synthetic OverSampling (SMOTE)
+     c) One Class Learning with Positive Class (Ex:OneClassSVM in scikit-learn)
+     d) Ensemble techniques
+3) 
+     
+   
 Original Dataset:
 https://www.kaggle.com/c/si650winter11#description
 
