@@ -1,6 +1,6 @@
 ****Documentation in Progress
 
-In this project, I tried to understand how anomalies can be handled in classifying TextMessages. There is a strong difference between finding anomalies in text corpus and find "text message anaomalies"
+In this project, I tried to understand how anomalies can be handled in classifying TextMessages. There is a strong difference between finding anomalies in text corpus and find "anaomalies among text message "
 
 Example: Text Message Anomalies - Classifying anomalies in Twitteer Corpus
 
