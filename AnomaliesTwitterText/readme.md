@@ -20,7 +20,7 @@ Techniques to deal with Anomaly Detection(Outliers Detection)
      b) Synthetic OverSampling (SMOTE)
      c) One Class Learning with Positive Class (Ex:OneClassSVM in scikit-learn)
      d) Ensemble techniques
-3) 
+3) Boosting Methods:
      
    
 Original Dataset:
