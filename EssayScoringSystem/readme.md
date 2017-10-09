@@ -1,9 +1,12 @@
+ ***Documentation in progress
+
 
 Student Essay Scoring System:
  
  This is an automatic grading system which solves the issues of many teachers and can avoid human mistakes while grading students. This is my intial research and will periodically update my research and results over the next week of time.
  
- ***Documentation in progress
 
 Dataset:
 https://www.kaggle.com/c/asap-aes#description
+Out of all columns in the dataset, we are going to deal with essay_set,essay,domain1_score
+essay_set = each essay is categorized into 8 different essay sets with essay set names(1,2_1,2_2,3,4,5,6,7)
