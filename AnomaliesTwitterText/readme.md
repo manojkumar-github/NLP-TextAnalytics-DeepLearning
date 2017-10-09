@@ -8,7 +8,10 @@ Difference between classification and anomaly detection:
      In classification, one can find class-balanced dataset, where as in anomaly detection, the ration of classes is imbalanced (typically 1000:5)
      
 Dataset:
-   Because I could not find such anomaly twitter corpus, I have made an anomaly dataset changing the ration of positive:negative samples to 4000:20 using the original dataset(balanced class ratio) 
+   Because I could not find such anomaly twitter corpus, I have made an anomaly dataset changing the ration of positive:negative samples to 4000:20 using the original dataset(balanced class ratio). 
+   
+Original Dataset:
+https://www.kaggle.com/c/si650winter11#description
 
 References:
 1) Working with text data scikit-learn
