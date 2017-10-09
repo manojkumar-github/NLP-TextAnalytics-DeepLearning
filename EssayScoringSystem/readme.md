@@ -6,7 +6,8 @@ Student Essay Scoring System:
  This is an automatic grading system which solves the issues of many teachers and can avoid human mistakes while grading students. This is my intial research and will periodically update my research and results over the next week of time.
  
  Current Status:
-   As of now, I prepared a baseline model, where I used various regression techniques to score each essay. The performance is not bad but needs to be improved by finding best parameters or other deeper models. This can also be handled as a classification problem where Quadratic-Kappa Score can be used as a evaluation measure.
+   As of now, I prepared a baseline model, where I used various regression techniques to score each essay. The performance is not bad but needs to be improved by finding best parameters or other deeper models. Moreover, I should think of other features from the essay texts like POS tagging, perplexity etc., as the word frequencey count is not enough for the better results. Also, this project can also be handled as a classification problem where Quadratic-Kappa Score can be used as a evaluation measure.
+ 
  
 
 Dataset:
