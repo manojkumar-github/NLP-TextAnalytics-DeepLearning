@@ -1,6 +1,7 @@
 ****Documentation in Progress
 
--- Refer to .ipynb notebook for the code explained visually
+-- Refer to .ipynb notebook in this project for the code explained visually
+
 In this project, I tried to understand how anomalies can be handled in classifying TextMessages. There is a strong difference between finding anomalies in text corpus and find "anaomalies among text message "
 
 Example: 
