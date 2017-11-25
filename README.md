@@ -16,3 +16,36 @@ Reference Links:
    https://arxiv.org/pdf/1701.01325.pdf
 7) Outlier detection in financial statements: a text mining method 
    https://www.witpress.com/Secure/elibrary/papers/DATA09/DATA09008FU1.pdf
+   
+   
+Some of the major tasks that are a part of NLP include:
+·        Automatic summarization
+·        Coreference resolution
+·        Discourse analysis
+·        Machine translation
+·        Morphological segmentation
+·        Named entity recognition (NER)
+·        Natural language generation
+·        Natural language understanding
+·        Optical character recognition (OCR)
+·        Part-of-speech tagging
+·        Parsing
+·        Question answering
+·        Relationship extraction
+·        Sentence breaking (also known as sentence boundary disambiguation)
+·        Sentiment analysis
+·        Speech recognition
+·        Speech segmentation
+·        Topic segmentation and recognition
+·        Word segmentation
+·        Word sense disambiguation
+·        Lemmatization
+·        Native-language identification
+·        Stemming
+·        Text simplification
+·        Text-to-speech
+·        Text-proofing
+·        Natural language search
+·        Query expansion
+·        Automated essay scoring
+·        Truecasing
